@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+    <head> <link rel="stylesheet" href="C:\Users\Dell\Documents\NetBeansProjects\java\ex3css.css">
+        <title> </title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body font="sans-serif" background="https://uploads-ssl.webflow.com/5a9ee6416e90d20001b20038/62ee119cdf1bb86b2f0c4c89_Rectangle%201%20(26).svg" class="bg">
+        <div class="cont">
+        <h1 class="abc"> APOLLO HOSPITAL </h1> 
+        <img src="https://img.freepik.com/free-vector/hospital-logo-design-vector-medical-cross_53876-136743.jpg?w=2000" class="logo" style="width:100px "  >
+        <br>
+        <hr>
+        <a href="C:\Users\Dell\Documents\NetBeansProjects\java\form.html" style="font-size: 30px" > LOGIN </a> HERE IF YOU ARE AN USER!!
+        <br>   
+        <br>
+        <hr>
+        <br>
+        <h2> ABOUT THE FOUNDER </h2>
+        <div class="im">
+        <img src="https://mysore.apollohospitals.com/wp-content/uploads/2016/01/apollo-dr-prathap-reddy.jpg"width="500">
+        </div>
+        <p>It was founded by Prathap C. Reddy in 1983 as the first corporate health care in India. The first branch at Chennai was inaugurated by the then President of India Zail Singh.Apollo developed telemedicine services, after starting a pilot project in 2000 at Aragonda, Prathap Reddy's home village.
+In 2007, Apollo Hospitals and DKV AG established a 74:26 joint venture health insurance company called Apollo DKV Insurance Co.The company was rebranded as Apollo Munich Health Insurance in 2009.
+In December 2012, Apollo Hospitals sold its 38% stake in Apollo Health Street, the group's healthcare business process outsourcing division, to Sutherland Global Services for ?225 crore (US$42.11 million).
+In October 2015, Apollo launched home care services under Apollo HomeCare[12] and its digital healthcare platform called Ask Apollo.
+Apollo signed an MoU with Health Education England in April 2017 to provide a large number of doctors to fill vacancies in the English National Health Service.
+In 2020, Apollo Hospitals sold its 50.80% percent majority stake in Apollo Munich Health Insurance to HDFC for ?1,495 crore (US$190 million).It also sold its joint venture hospital in Dhaka to Evercare.[16]
+In March 2022, Apollo Hospitals got included in Nifty 50 benchmark index, replacing Indian Oil, to become the first hospital company to be included on the index.      
+        </p>
+        <h2> ABOUT HOSPITAL </h2>
+        <div class="imaa">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Apollo_karimnagar.jpg/225px-Apollo_karimnagar.jpg" width="250">
+        </div>
+            <p>Apollo Hospitals Enterprise Limited is an Indian multinational healthcare group headquartered in Chennai. Along with the eponymous hospital chain, the company also operates pharmacies, primary care and diagnostic centres, telehealth clinics, and digital healthcare services among others through its subsidiaries.[3]
+The company was founded by Prathap C. Reddy in 1983 as the first corporate healthcare provider in India. Several of Apollo's hospitals have been among the first in India to receive international healthcare accreditation by the America-based Joint Commission International (JCI)[4][5] as well as NABH accreditation.In October 2015, Apollo launched home care services under Apollo HomeCare and its digital healthcare platform called Ask Apollo.
+Apollo signed an MoU with Health Education England in April 2017 to provide a large number of doctors to fill vacancies in the English National Health Service.[14]</p>
+
+        <h2> OUR FACILITIES </h2>
+         <table border="2" bgcolor="#00ffcc" style="color:black" width="60%">
+            <tr>
+                <th style="font-size: 20px"> S.NO </th>
+                <th style="font-size: 20px"> FACILITIES </th>
+
+            </tr>    
+            <tr>
+                <td> 1 </td>
+                <td style="font-size: 20px">Customized Preventive Health Checks <img src="https://images.ctfassets.net/uwf0n1j71a7j/76knwryILCxFdd8oQGiTDt/79062fd764146f15917f323f9e066289/preventive-health-check-up.png"   width="20%"  </td>
+            </tr>
+            <tr>
+                <td> 2 </td>
+                <td style="font-size: 20px"> Outpatient Facilities <img src="https://st.depositphotos.com/1009701/3104/i/600/depositphotos_31042967-stock-photo-hospital-outpatient-sign.jpg" width="15%"> </td>
+            </tr>
+            <tr>
+                <td> 3 </td>
+                <td style="font-size: 20px"> Priority Admission <img src="https://images.squarespace-cdn.com/content/v1/55e253b2e4b0e3927f816659/1590530842823-Y7137XDW1Z4LFTT0TG2R/Canva+-+Round+Black+Alarm+Clock.jpg+tutor+college+admissions+tutoring+center+tutoring+centers+near+me+educational+consultant+how+to+apply+for+college+private+tutot+tutoring+services+priority+deadlines+regular+deadline+claremont+upland+claremontparents+uplandparents+los+angeles+county+ornage+county+inland+empire+rolling+timeframe" width="15%">
+                </td>
+            </tr>
+            <tr>
+                <td> 4 </td>
+                <td style="font-size: 20px"> Comprehensive Surgical Packages <img src="https://sc04.alicdn.com/kf/H4dc2e2ee451c40f6b756c0d57df5d4cbw/225385911/H4dc2e2ee451c40f6b756c0d57df5d4cbw.jpg"width="10%"></td>       </tr>
+            </tr>
+            <tr>
+                <td> 5 </td>
+                <td style="font-size: 20px"> Multi-cuisine F&B Service image <img src="https://m.media-amazon.com/images/I/51MSJBzfm6L._SX198_BO1,204,203,200_QL40_ML2_.jpg" width="10%"> </td>
+            </tr>
+    </table>
+            <a href="C:\Users\Dell\Documents\NetBeansProjects\java\form2.html" >
+            <img src="https://redcliffelabs.com/myhealth/wp-content/uploads/2022/05/25-Full-Body-Checku-What-Does-It-Include-Who-Should-Get-It-Packages-Price-in-India-and-More-Questions-Answered-1200x900.webp" class="side">
+            </a>
+            <style>
+                .side{
+                 position: fixed;
+                bottom: 0;
+               right: 0;
+                width: 20%;
+               border: 3px solid #73AD21;
+}
+            </style>  
+            <h2> SERVICES WE OFFER </h2>   
+            <div class="ani">
+            <ul class="list" style="font-size: 20px"> 
+                <li>Emergency room services</li>
+                 <li>Short-term hospitalization</li>
+                 <li>X-ray/radiology services</li>
+                 <li>General and specialty surgical services</li>
+                 <li>Blood services</li>
+                 <li>Laboratory services</li>
+            </ul>
+            </div>
+            <div class="log">
+                <a href="·https://chennai.apollohospitals.com/hospitals/greams-road/facilities/">CLICK HERE TO KNOW MORE ABOUT OUR FACILITIES</a> 
+            </div>
+            <h2> APOLLO HEALTH CARE </h2>
+            <div class="last">
+                <h2> Apollo Proton Cancer Centre, Chennai </h2>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Apollo_Proton_Cancer_Centre%2C_Chennai.jpg/1024px-Apollo_Proton_Cancer_Centre%2C_Chennai.jpg" width="250">
+            </div>
+            <br>
+            <div class="last1">
+                <h2> Indraprastha Apollo Hospital, Delhi </h2>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Apollo_Hospital_Indraprastha.jpg" width="450" height="170">
+            </div>
+            <br>
+            <div class="last3">
+               <h2> Apollo Hospitals, Visakhapatnam </h2>
+               <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Apollo_Hospitals%2C_Visakhapatnam.jpg/1024px-Apollo_Hospitals%2C_Visakhapatnam.jpg" width="475" height="170">   
+            </div>
+             <h2> APOLLO PHARMACY </h2>
+            <div class="last4">
+            <img src="https://trifed.tribal.gov.in/sites/default/files/inline-images/Apollo-Pharmacy-2761.jpg" width="100%" height="200">
+            </div>
+            <p> Apollo Pharmacy is a part of Apollo Hospitals - India’s trusted pharmacy. It is India's first and largest branded pharmacy network, with over 4500 outlets in key locations.
+Accredited with - International Quality Certification, Apollo Pharmacy offers genuine medicines round-the-clock, through our 24-hour Pharmacies. Apollo Pharmacy also provides customer care any time of the day!
+Quality is the cornerstone of our existence. We have gained experience in pharmacy operations management over the last 2 decades and are committed to delivering best service in the industry.
+Apollo Pharmacy is well stocked with medicines, OTC and FMCG products, manned by a team of qualified and experienced staff available to cater to your every need.
+Apollopharmacy.in has more than 5000 products in various categories like Vitamins and Supplements, Baby Care, Personal Care, Health & Nutrition Foods and OTC. In addition to this we have more than 400 Apollo Brand Products in the following categories like vitamins and supplements, health food, oral care, skincare, personal care, baby care, OTC etc.
+            </p>
+            <p class ="end"> CONTACT US THROUGH apollo123@gmail.com </p> 
+
+            </body>
+</html>

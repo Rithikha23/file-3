@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head> <link rel="stylesheet" href="C:\Users\Dell\Documents\NetBeansProjects\java\ex3css.css">
+        <title></title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body class="border" background="https://uploads-ssl.webflow.com/5a9ee6416e90d20001b20038/62ee119cdf1bb86b2f0c4c89_Rectangle%201%20(26).svg" class="bg">
+        <div></div>
+          <h1 class ="abc"> FULL BODY CHECKUP FORM </h1>
+    <form action="C:\Users\Dell\Documents\NetBeansProjects\java\ex3.html" class="container" >
+        <b> NAME </b>
+        <input type="text" id="f" name="fname"  placeholder="Enter your name" value="" required >
+        <br>
+        <b> DOB </b>
+        <input type="date" id="f" name="inname" placeholder="Enter dob" value="dob" required>
+<br>
+        <b> AGE </b> 
+        <input type="text" id="f" name="inname" placeholder="Enter your mail ID" value="" required><BR>
+        <b> ADDRESS </b>
+        <input type="text" id="f" name="iname" placeholder="Enter address" value="" required>           
+        <b> OCCUPATION </b>
+        <input type="text" id="f" name="iname" placeholder="Enter occupation " value="" required>
+        <br>
+        <b> PHONE NUMBER </b>
+        <input type="text" id="f" name="iname" placeholder="Enter ph.no" value="" required> <br>
+        <b> HISTORY OF DISEASE </b><br>
+        <input type="checkbox" id="f"  >HEART DISEASE<br>
+        <input type="checkbox" id="f"  >LUNG DISEASE<br>
+        <input type="checkbox" id="f"  >STROKE<br>
+        <input type="checkbox" id="f"  >JOINTS<br>
+        <input type="checkbox" id="f"  >GYNAECOLOGICAL<br>
+        <input type="checkbox" id="f" >DIGESTIVE/LIVER<br>
+        <input type="checkbox" id="f"  >KIDNEY/BLADDER<br>
+
+        <button type="Register" style="background-color:greenyellow" > SUBMIT </button> 
+    </form>
+    </body>
+</html>

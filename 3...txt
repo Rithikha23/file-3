@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head><link rel="stylesheet" href="C:\Users\Dell\Documents\NetBeansProjects\java\ex3css.css">
+        <title> </title>
+        <style>
+            #f{
+    line-height:3;
+    text-align:center; 
+}
+.cen{
+    text-align:center; 
+}
+        </style>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>
+        <div class="test"> 
+             <h1 class ="abc"> WELCOME TO LOGIN PAGE! </h1>
+    <form action="file:///C:/Users/Dell/Documents/NetBeansProjects/java/form.html" class="container" >
+        <b> USERNAME </b>
+        <input type="text" id="f" name="fname"  placeholder="Enter your name" value="" required >
+        <br>
+        <b> PASSWORD  </b>
+        <input type="text" id="f" name="inname" placeholder="Enter password" value="" required>
+<br>
+       <b> EMAIL </b> 
+        <input type="email" id="f" name="inname" placeholder="Enter your mail ID" value="" required><BR>
+        <input type="checkbox" id="f" checked="checked" >Remember me<br>
+        <button type="submit" > SUBMIT </button> 
+    </form>
+        </div>
+    </body>
+</html>
